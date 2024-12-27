@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/time-difference-calculator/static/css/main.279b917b.css",
+    "main.js": "/time-difference-calculator/static/js/main.1a6dafba.js",
+    "static/js/488.dd09d51f.chunk.js": "/time-difference-calculator/static/js/488.dd09d51f.chunk.js",
+    "index.html": "/time-difference-calculator/index.html",
+    "main.279b917b.css.map": "/time-difference-calculator/static/css/main.279b917b.css.map",
+    "main.1a6dafba.js.map": "/time-difference-calculator/static/js/main.1a6dafba.js.map",
+    "488.dd09d51f.chunk.js.map": "/time-difference-calculator/static/js/488.dd09d51f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.279b917b.css",
+    "static/js/main.1a6dafba.js"
+  ]
+}
